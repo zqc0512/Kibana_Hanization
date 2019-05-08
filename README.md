@@ -39,3 +39,5 @@
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/kibana.png)
 
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/discover.png)
+
+![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/kibana7.png)
