@@ -8,7 +8,7 @@
 
 ### 一、汉化方法（6.x）
 
-> 1、拷贝此项目中的translations文件夹到您的kibana目录下的`src/legacy/core_plugins/kibana/`目录。若您的kibana无此目录，那还是尝试使用此项目old目录下的汉化方法吧。
+> 1、拷贝此项目中的translations`文件夹`到您的kibana目录下的`src/legacy/core_plugins/kibana/`目录。若您的kibana无此目录，那还是尝试使用此项目old目录下的汉化方法吧。
 
 > 2、修改您的kibana配置文件kibana.yml中的配置项：i18n.locale: "zh_CN"
 
@@ -16,7 +16,7 @@
 
 ### 一、汉化方法（7.x）
 
-> 1、拷贝此项目中translations文件夹中的zh_CN.json到您的kibana目录下的`node_modules/x-pack/plugins/translations/translations/`目录。
+> 1、拷贝此项目中translations文件夹中的`zh_CN.json`到您的kibana目录下的`node_modules/x-pack/plugins/translations/translations/`目录。
 > 2、修改您的kibana配置文件kibana.yml中的配置项：i18n.locale: "zh_CN"
 > 3、重启Kibana，汉化完成
 
