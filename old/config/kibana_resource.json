@@ -6570,54 +6570,64 @@
     "cn": "shortDescription: '收集Osquery创建的结果日志。'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Canvas'",
+    "cn": "title: '画布'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Machine Learning'",
+    "cn": "title: '机器学习'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Infrastructure'",
+    "cn": "title: '基础设施'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Logs'",
+    "cn": "title: '日志'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": ".bundle.js",
+    "en": "exports.SPACES_FEATURE_DESCRIPTION=\"Organize your dashboards and other saved objects into meaningful categories.\"",
+    "cn": "exports.SPACES_FEATURE_DESCRIPTION=\"将仪表板和其他保存的对象组织成有意义的类别。\""
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/spaces/public/lib/constants.js",
+    "en": "exports.SPACES_FEATURE_DESCRIPTION=\"Organize your dashboards and other saved objects into meaningful categories.\"",
+    "cn": "exports.SPACES_FEATURE_DESCRIPTION=\"将仪表板和其他保存的对象组织成有意义的类别。\""
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/spaces/",
+    "en": "title: 'Spaces',",
+    "cn": "title: '空间',"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/spaces/",
+    "en": "display: 'Spaces',",
+    "cn": "display: '空间',"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "ui_app.pug",
+    "en": "{ defaultMessage: 'Loading Kibana' }",
+    "cn": "{ defaultMessage: 'Kibana载入中...' }"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": ".js",
+    "en": "This is a search bar. After typing your query, hit enter to filter the results lower in the page.",
+    "cn": "这是一个搜索栏。输入查询条件后，按“回车”键以筛选页面中符合条件的结果。"
+  },
+  {
+    "path": ".js",
+    "en": "This is a search bar. As you type, the results lower in the page will automatically filter.",
+    "cn": "这是一个搜索栏。当你键入字符时，页面中的结果会自动搜索过滤。"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "placeholder:\"Search\"",
+    "cn": "placeholder:\"搜索\""
   },
   {
     "path": ".bundle.js",
@@ -6771,93 +6781,603 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "placeholder:\"Search...\"",
+    "cn": "placeholder:\"搜索...\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Manage spaces\"",
+    "cn": "\"管理空间\""
+  },
+  {
+    "path": "/node_modules/x-pack/plugins/spaces/",
+    "en": "\"Manage spaces\"",
+    "cn": "\"管理空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Create space\"",
+    "cn": "\"创建空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Update space\"",
+    "cn": "\"更新空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Edit space\"",
+    "cn": "\"编辑空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h1\",null,\"Spaces\")",
+    "cn": "createElement(\"h1\",null,\"空间\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Spaces\"",
+    "cn": "title:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "display:\"Spaces\"",
+    "cn": "display:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Spaces\"",
+    "cn": "label:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Privilege\"",
+    "cn": "label:\"特权\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Description\"",
+    "cn": "name:\"描述\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Identifier\"",
+    "cn": "name:\"标识\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Space\"",
+    "cn": "name:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Advanced Settings\"",
+    "cn": "\"高级设置\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Saved Objects\"",
+    "cn": "\"已保存对象\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Index Patterns\"",
+    "cn": "\"索引模式\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Rollup Jobs\"",
+    "cn": "\"汇总工作\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Index Management\"",
+    "cn": "\"索引管理\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "placeholder:\"Search... (e.g. status:200 AND extension:PHP)\"",
+    "cn": "placeholder:\"搜索... (例如：status:200 AND extension:PHP)\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Our experimental autocomplete and simple syntax features can help you create your queries. Just start typing and you’ll see matches related to your data. See docs\",\" \",_react2.default.createElement(_eui.EuiLink,{href:kueryQuerySyntaxDocs,target:\"_blank\"},\"here\")",
+    "cn": "\"我们的自动完成(实验)和简单语法功能可以帮助您创建查询。只需开始输入，您就会看到与您的数据相关的匹配项。 查看相关文档请点击 \",\" \",_react2.default.createElement(_eui.EuiLink,{href:kueryQuerySyntaxDocs,target:\"_blank\"},\"这里\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Not ready yet? Find our lucene docs\",\" \",_react2.default.createElement(_eui.EuiLink,{href:luceneQuerySyntaxDocs,target:\"_blank\"},\"here\")",
+    "cn": "\"还没有准备好？查看我们的lucene文档，点击 \",\" \",_react2.default.createElement(_eui.EuiLink,{href:luceneQuerySyntaxDocs,target:\"_blank\"},\"这里\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\"Update\":\"Refresh\"",
+    "cn": "?\"更新\":\"刷新\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n        Refresh Interval\\n",
+    "cn": "\\n        刷新间隔\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\"Off\":\"On\"",
+    "cn": "?\"关闭\":\"打开\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "return\"Off\"",
+    "cn": "return\"关闭\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"seconds\":\"second\"",
+    "cn": "1?\"秒\":\"秒\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"minutes\":\"minute\"",
+    "cn": "1?\"分钟\":\"分钟\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"hours\":\"hour\"",
+    "cn": "1?\"小时\":\"小时\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"days\":\"day\"",
+    "cn": "1?\"天\":\"天\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\'Enable filter\\' : \\'Disable filter\\'",
+    "cn": "\\'启用筛选器\\' : \\'禁用筛选器\\'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\'Unpin filter\\' : \\'Pin filter\\'",
+    "cn": "\\'解开筛选器\\' : \\'钉住筛选器\\'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\'Include matches\\' : \\'Exclude matches\\'",
+    "cn": "\\'包含匹配项\\' : \\'排除匹配项\\'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Remove filter\"",
+    "cn": "tooltip=\"移除筛选器\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Edit filter\"",
+    "cn": "tooltip=\"编辑筛选器\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(_eui.EuiModalHeaderTitle,null,\"Save \",",
+    "cn": "createElement(_eui.EuiModalHeaderTitle,null,\"保存 \","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(_eui.EuiFormRow,{label:\"Title\"}",
+    "cn": "createElement(_eui.EuiFormRow,{label:\"标题\"}"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Cancel\")",
+    "cn": "},\"取消\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Confirm Save\")",
+    "cn": "},\"确认保存\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess({title:\"Dashboard '\"+dash.title+\"' was saved\"",
+    "cn": ".addSuccess({title:\"仪表盘 '\"+dash.title+\"' 已保存\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess({title:_this.state.selectedTab.name+\" was added to your dashboard\"",
+    "cn": ".addSuccess({title:_this.state.selectedTab.name+\" 已添加到您的仪表盘\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess({title:\"Search '\"+savedSearch.title+\"' was saved\"",
+    "cn": ".addSuccess({title:\"搜索 '\"+savedSearch.title+\"' 已保存\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess(\"'\"+name+\"' was saved\")",
+    "cn": ".addSuccess(\"'\"+name+\"' 已保存\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "message='Deleted \"'+space.name+'\" space.'",
+    "cn": "message='已删除 \"'+space.name+'\" 这个空间。'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"h1\",null,\"Open Search\")",
+    "cn": "createElement(\"h1\",null,\"打开搜索\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Manage spaces\")",
+    "cn": "},\"管理空间\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Manage searches\")",
+    "cn": "},\"管理搜索\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Share this \"",
+    "cn": "title:\"分享此 \""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "panelTitle=\"CSV Reports\"",
+    "cn": "panelTitle=\"CSV报告\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Permalinks\"",
+    "cn": "name:\"固定链接\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Permalink\"",
+    "cn": "title:\"固定链接\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "label:\"Generate the link as\"",
+    "cn": "label:\"生成此链接为\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".renderWithIconTip(\"Snapshot\",\"Snapshot URLs encode the current state of the \"+_this.props.objectType+\" in the URL itself.\\n            Edits to the saved \"+_this.props.objectType+\" won't be visible via this URL.\")",
+    "cn": ".renderWithIconTip(\"快照\",\"快照URL在URL自身中编码当前 \"+_this.props.objectType+\" 的状态。\\n            通过此URL编辑保存的 \"+_this.props.objectType+\" 将不可见。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".renderWithIconTip(\"Saved object\",\"You can share this URL with people to let them load the most recent saved version of this \"+_this.props.objectType+\".\")",
+    "cn": ".renderWithIconTip(\"保存的对象\",\"您可以与其它人分享此URL，通过让他们加载最新保存的 \"+_this.props.objectType+\"。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\" Short URL\"):\"Short URL\"",
+    "cn": ",\" 短链接\"):\"短链接\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tipContent=\"We recommend sharing shortened snapshot URLs for maximum compatibility.\\n      Internet Explorer has URL length restrictions,\\n      and some wiki and markup parsers don't do well with the full-length version of the snapshot URL,\\n      but the short URL should work great.\"",
+    "cn": "tipContent=\"我们建议共享快照短链接以获得最大兼容性。\\n      IE浏览器有最大URL限制，\\n      并且它的一些wiki和标记解析器不能很好地处理快照链接的完整版本，\\n      但短链接却可以很好地兼容。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\"Copy \",",
+    "cn": ",\"复制 \","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\"iFrame code\":\"link\")",
+    "cn": "?\"iFrame代码\":\"链接\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "reportMsg=this.prettyPrintReportingType()+\"s can take a minute or two to generate based upon the size of your \"+this.props.objectType+\".\"",
+    "cn": "reportMsg=this.prettyPrintReportingType()+\"导出会花费一两分钟，基于您的 \"+this.props.objectType+\"的大小。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"p\",null,\"Alternatively, copy this POST URL to call generation from outside Kibana or from Watcher.\")",
+    "cn": "createElement(\"p\",null,\"或者，复制此POST URL以从Kibana外部或从Watcher调用生成。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Generate \",",
+    "cn": "},\"生成 \","
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\"Copy POST URL\")",
+    "cn": ",\"复制POST URL\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "afterMessage:\"Copied\"",
+    "cn": "afterMessage:\"已复制\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Queued report for \"+_this.props.objectType,text:\"Track its progress in Management\"",
+    "cn": "title:\"已添加报告队列为 \"+_this.props.objectType,text:\"可以在'管理'功能中跟踪此工作的进度\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Created report for \"+reportObjectType+\"",
+    "cn": "title:\"已创建报告，为 \"+reportObjectType+\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"p\",null,\"Pick it up from \",_react2.default.createElement(\"a\",{href:reportingSectionUrl},\"Management > Kibana > Reporting\")",
+    "cn": "createElement(\"p\",null,\"查看它从 \",_react2.default.createElement(\"a\",{href:reportingSectionUrl},\"管理 > Kibana > 报告\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\"Download report\")",
+    "cn": ",\"下载报告\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"span\",null,\"View: \",",
+    "cn": "createElement(\"span\",null,\"查看：\","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"strong\",null,\"Request:\")",
+    "cn": "createElement(\"strong\",null,\"请求：\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\" requests were\":\" request was\",\" made\"",
+    "cn": "?\" 个请求\":\" 个请求\",\"已生成\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"This request queries Elasticsearch to fetch the data for the search.\"",
+    "cn": "description:\"此请求查询Elasticsearch以获取搜索的数据。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Statistics\",component",
+    "cn": "name:\"统计\",component"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Request\",component",
+    "cn": "name:\"请求\",component"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Response\",component",
+    "cn": "name:\"响应\",component"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "start(\"Segment \"",
+    "cn": "start(\"分段 \""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "stats[\"Index pattern\"]",
+    "cn": "stats[\"索引模式\"]"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"The index pattern that connected to the Elasticsearch indices.\"",
+    "cn": "description:\"连接到Elasticsearch索引的索引模式。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "stats[\"Index pattern ID\"]",
+    "cn": "stats[\"索引模式ID\"]"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"The ID in the .kibana index.\"",
+    "cn": "description:\"在.kibana索引中的ID。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "stats[\"Query time\"]",
+    "cn": "stats[\"请求时间\"]"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"The time it took to process the query.\\n        Does not include the time to send the request or parse it in the browser.\"",
+    "cn": "description:\"花费在处理请求上的时间。\\n        不包括发送请求或在浏览器中解析请求的时间。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "stats[\"Hits (total)\"]",
+    "cn": "stats[\"命中 (总共)\"]"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"The number of documents that match the query.\"",
+    "cn": "description:\"匹配查询条件的文档总数。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "stats[\"Request time\"]",
+    "cn": "stats[\"请求时间\"]"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"The time of the request from the browser to Elasticsearch and back.\\n        Does not include the time the requested waited in the queue.\"",
+    "cn": "description:\"从浏览器请求到Elasticsearch返回的时间。\\n不包括请求在队列中等待的时间。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"The number of documents returned by the query.\"",
+    "cn": "description:\"此查询返回的文档数。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"h4\",null,\"No results found\")",
+    "cn": "createElement(\"h4\",null,\"未发现结果\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Area\"",
+    "cn": "defaultMessage:\"面积图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Emphasize the quantity beneath a line chart\"",
+    "cn": "defaultMessage:\"强调线下图的数量\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Heat Map\"",
+    "cn": "defaultMessage:\"热点图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Shade cells within a matrix\"",
+    "cn": "defaultMessage:\"分开矩阵中的单元\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Horizontal Bar\"",
+    "cn": "defaultMessage:\"水平柱状图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Vertical Bar\"",
+    "cn": "defaultMessage:\"垂直柱状图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Assign a continuous variable to each axis\"",
+    "cn": "defaultMessage:\"为每个轴线分配一个连续变量\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Pie\"",
+    "cn": "defaultMessage:\"饼状图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Compare parts of a whole\"",
+    "cn": "defaultMessage:\"比较一个整体的各部分比例\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Line\"",
+    "cn": "defaultMessage:\"折线图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Emphasize trends\"",
+    "cn": "defaultMessage:\"强调变化趋势\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Data Table\"",
+    "cn": "defaultMessage:\"数据表\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Display values in a table\"",
+    "cn": "defaultMessage:\"将数据在一个表格中展示\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Metric\"",
+    "cn": "defaultMessage:\"度量\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Display a calculation as a single number\"",
+    "cn": "defaultMessage:\"将计算结果显示为数值\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Goal\"",
+    "cn": "defaultMessage:\"目标图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"A goal chart indicates how close you are to your final goal.\"",
+    "cn": "defaultMessage:\"一个目标图表明您相对于您的最终目标还有多远\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Gauge\"",
+    "cn": "defaultMessage:\"量表\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Gauges indicate the status of a metric. Use it to show how a metric's value relates \\n      to reference threshold values.\"",
+    "cn": "defaultMessage:\"量表表示度量标准的状态，使用它来显示指标的值如何与参考阈值相关。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Timelion\"",
+    "cn": "defaultMessage:\"时间线\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Build time-series using functional expressions\"",
+    "cn": "defaultMessage:\"使用功能表达式构建时间序列\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Visual Builder\"",
+    "cn": "defaultMessage:\"可视化构建\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Build time-series using a visual pipeline interface\"",
+    "cn": "defaultMessage:\"使用可视化管道接口构建时间序列\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Coordinate Map\"",
+    "cn": "defaultMessage:\"坐标地图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Plot latitude and longitude coordinates on a map\"",
+    "cn": "defaultMessage:\"在地图上绘制经度和纬度坐标\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Region Map\"",
+    "cn": "defaultMessage:\"区域地图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Show metrics on a thematic map. Use one of the provide base maps, or add your own. Darker colors represent higher values.\"",
+    "cn": "defaultMessage:\"在专题地图上显示指标。使用提供的基本地图之一，或添加您自己的。 较深的颜色表示较高的值。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Show metrics on a thematic map. Use one of the provided base maps, or add your own. Darker colors represent higher values.\"",
+    "cn": "\"在专题地图上显示指标。使用提供的基本地图之一，或添加您自己的。 较深的颜色表示较高的值。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Tag Cloud\"",
+    "cn": "defaultMessage:\"标签云\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Create interactive controls for easy dashboard manipulation.",
+    "cn": "创建交互式控件，便于仪表盘操作。"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Controls\"",
+    "cn": "defaultMessage:\"控制图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"A group of words, sized according to their importance\"",
+    "cn": "defaultMessage:\"根据其重要性确定大小的一组单词。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">\\n          Manage ",
+    "cn": ">\\n          管理"
   },
   {
     "path": ".bundle.js",
